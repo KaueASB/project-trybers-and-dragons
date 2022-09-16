@@ -20,7 +20,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 Este projeto tem cunho educacional. Foi desenvolvido para colocar em prática o ensino dado pela Trybe.
 
 <details>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que foi desenvolvido desenvolvido</strong></summary><br />
 
   Para este projeto, foi aplicado os princípios da arquitetura `SOLID` e os princípios de `POO` em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos `RPG` (_Role Playing Game_).
 
