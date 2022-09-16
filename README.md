@@ -15,6 +15,10 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 -->
 
+# Boas-vindas ao repositório do Projeto Trybers and Dragons! 
+
+Este projeto tem cunho educacional. Foi desenvolvido para colocar em prática o ensino dado pela Trybe.
+
 <details>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
 
